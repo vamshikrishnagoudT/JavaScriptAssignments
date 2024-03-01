@@ -1,0 +1,56 @@
+
+.bg-main {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.stop-light-bg {
+    background-color: #4b5069;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+
+    margin-bottom: 30px;
+    margin-left: 5px;
+
+}
+
+.main-heading {
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bg-traffic-light {
+    background-color: #1f1d41;
+    height: 300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+
+
+
+}
+
+.button {
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    color: white;
+    background-color: #1f1d41;
+}
+
+
+.radio_size {
+    height: 50px;
+    color: red;
+    width: 80px;
+
+
+}
