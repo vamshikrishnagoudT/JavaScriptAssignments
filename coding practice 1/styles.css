@@ -1,0 +1,62 @@
+
+.color-Picker-Container {
+    height: 100vh;
+    background-color: ffffff;
+}
+
+.text-cent {
+    text-align: center;
+}
+
+.color-picker {
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.back-color {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    height: 50px;
+    padding: 10px;
+}
+
+.btm-txt {
+    font-family: "Open Sans";
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+.button {
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 3px;
+    font-family: "Open Sans";
+    font-size: 14px;
+    border-color: black;
+    margin-bottom: 10px;
+
+}
+
+.button1 {
+    background-color: #e0e0e0;
+}
+
+.button2 {
+    background-color: #6fcf97;
+}
+
+.button3 {
+    background-color: #56ccf2;
+}
+
+.button4 {
+    background-color: #bb6bd9;
+}
